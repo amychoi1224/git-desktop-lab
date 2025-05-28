@@ -1,4 +1,4 @@
-# git-desktop-lab. This is branch B 
+# git-desktop-lab. This is branch A and branch B 
 
 A brief description of what this project does and who it's for.
 
